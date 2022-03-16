@@ -1,21 +1,27 @@
-# default
+# 默认
 
-## Project setup
+
+### 项目源码git下载
+```
+git clone https://github.com/1014250276/JieYue_Edu_Mobile.git
+```
+
+## 1.安装node_modules模块
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2.启动编译和热重载
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 3.打包压缩
 ```
 npm run build
 ```
 
-### Run your tests
+### 4.运行测试
 ```
 npm run test
 ```
@@ -25,5 +31,7 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
+### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
