@@ -1,0 +1,59 @@
+#container_case {}
+
+.banner {}
+
+.banner1 {
+	width: 23.4375rem;
+	height: 7.3125rem;
+}
+.studentInfo{
+	margin-top: 1.25rem;
+}
+
+.student_content{
+	margin-top: 0.9375rem;
+}
+.student_img {
+	width: 22.1875rem;
+	height: 9.1875rem;
+	margin: 0.5rem auto;
+}
+
+.schoolInfo{
+	margin-top: 1.25rem;
+}
+
+.school_content{
+	margin-top: 0.9375rem;
+}
+
+.school_ul {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 1.25rem;
+}
+
+.school_li {
+	margin: 5px;
+}
+
+.school_img {
+	width: 9.25rem;
+	height: 3.3125rem;
+	/* margin: 0.5rem auto; */
+}
+
+.Title {
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	color: #000000;
+}
+
+.Title_content {
+	font-size: 14px;
+	color: #3333333;
+	margin-top: 0.9375rem;
+}

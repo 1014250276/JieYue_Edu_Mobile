@@ -1,0 +1,39 @@
+#container_me{
+	background-color: rgba(242, 242, 242, 1);
+}
+
+.banner {}
+
+.banner1 {
+	width: 23.4375rem;
+	height: 7.3125rem;
+}
+
+.address_head{
+	margin-top: 1.25rem;
+}
+.address_head_img{
+	width: 21.9375rem;
+	height: 9.375rem;
+}
+.address_sons{
+	margin-top: 0.625rem;
+	padding-bottom: 1.25rem;
+}
+.address_sons_ul{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 0.625rem;
+}
+.address_sons_li{
+	
+}
+.AddressInfo_img{
+	margin: 0.3125rem;
+	width: 10.4375rem;
+	height: 7.1875rem;
+	/* position: absolute; */
+	/* left: 0; */
+}

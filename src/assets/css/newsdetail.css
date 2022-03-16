@@ -1,0 +1,24 @@
+#container_newsdetail{
+	padding-bottom: 30px;
+}
+
+.NewsHeader{
+	padding: 20px 0px;
+}
+
+.NewsTitle{
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+}
+.NewsTime{
+	font-weight: 400;
+	font-size: 14px;
+	color: #333333;
+	margin-top:10px;
+}
+.NewsContent{
+	margin: 1.25rem 0.625rem;
+	text-indent: 2em;
+	text-align: left ;
+}

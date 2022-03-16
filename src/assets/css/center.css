@@ -1,0 +1,98 @@
+#container_center {
+	background-color: #FFFFFF;
+}
+
+.banner {}
+
+.banner1 {
+	width: 23.4375rem;
+	height: 7.3125rem;
+}
+
+.center_explain {
+	margin: 0.625rem auto;
+	padding-top:0.625rem;
+}
+
+.explain_txt {
+	font-size: 16px;
+	font-weight: 400px;
+	color: #3333333;
+}
+
+.contactway {
+	margin: 1.25rem auto;
+	padding-top: 1.25rem;
+}
+
+.contactway_main {
+	display: flex;
+	justify-content: center;
+	margin: 0.625rem auto;
+}
+
+/* .title_icon {
+	width: 1.875rem;
+	height: 1.875rem;
+} */
+
+.title_txt {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 0.1875rem;
+}
+
+.contactway_ul {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 0.625rem;
+}
+
+.contactway_li {
+	position: relative;
+}
+
+.contactway_bgimg {
+	width: 7.0625rem;
+	height: 12.5rem;
+}
+
+.contactway_txt {
+	position: absolute;
+	left: 0;
+	font-size: 14px;
+	text-align: left;
+	color: #5555555;
+	margin: 3.75rem 0.3125rem;
+}
+
+.secret {
+	width: 100%;
+	height: auto;
+	padding-top: 0.625rem;
+	padding-bottom: 1.875rem;
+}
+
+.secret_bgimg {
+	position: relative;
+	width: 22.1875rem;
+	height: 20.4375rem;
+	box-shadow: 5px 2px 6px grey;
+}
+
+.secret_info {
+	position: absolute;
+	left: 0;
+	text-align: left;
+	margin: 20px;
+
+	font-size: 14px;
+	word-wrap: break-word;
+	text-transform: none;
+	letter-spacing: 4px;
+	color: #555555;
+	line-height: 23px;
+}

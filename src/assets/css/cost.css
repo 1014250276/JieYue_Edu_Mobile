@@ -1,0 +1,134 @@
+#container_cost {
+	background-color: #FFFFFF;
+}
+
+.banner {}
+
+.banner1 {
+	width: 23.4375rem;
+	height: 7.3125rem;
+}
+
+.title {
+	margin-bottom: 1.875rem;
+	/* padding-bottom: 0.9375rem; */
+}
+
+.title_CN {
+	color: #0077C0;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+
+}
+
+.title_EN {
+	color: #999999;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+	margin: 0 0.5rem;
+}
+
+.title_Msg {
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+}
+
+.mission {
+	margin-top: 0.9375rem;
+	/*15px*/
+}
+
+.mission_imgs{
+	padding-bottom: 1.25rem;
+}
+
+.mission_img {
+	width: 21.9375rem;
+	height: 9.75rem;
+}
+
+.vision {
+	margin-top: 0.9375rem;
+}
+
+.vision_content {
+	width: 90%;
+	margin: 0 auto;
+	padding-bottom: 1.25rem;
+}
+
+.vision_ul {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.vision_li {
+	padding: 5px 12px;
+}
+
+.vision_img {
+	width: 9rem;
+	height: 13rem;
+}
+
+.values {
+	margin-top: 0.9375rem;
+}
+
+.values_tabs {
+	width: 90%;
+	margin: 0 auto;
+	padding-bottom: 1.25rem;
+}
+
+.el-tabs__item {
+	/* width: 100%; */
+	font-size: 18px;
+	font-weight: 700px;
+}
+
+.values_img {
+	width: 22.1875rem;
+	height: 8.5rem;
+}
+
+.management {
+	margin-top: 0.9375rem;
+}
+
+.management_content {
+	width: 90%;
+	margin: 0 auto;
+	padding-bottom: 3.125rem;
+}
+
+.management_ul {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.management_li {
+	/* padding: 5px 12px; */
+}
+
+.management_smallimg {
+	width: 10.125rem;
+	height: 7.0625rem;
+}
+
+.management_largeimg {
+	width: 10.125rem;
+	height: 14.375rem;
+}
+
+.management_img {
+	width: 10.125rem;
+	height: 10.125rem;
+}

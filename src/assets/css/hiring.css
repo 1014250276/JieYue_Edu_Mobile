@@ -1,0 +1,171 @@
+#container_hiring {}
+
+.banner {}
+
+.banner1 {
+	width: 23.4375rem;
+	height: 7.3125rem;
+}
+
+.Imgs {
+	height: 6.25rem;
+	background-color: rgba(241, 240, 255, 1);
+}
+
+.Imgs_ul {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	width: 95%;
+	height: 80px;
+	line-height: 80px;
+	margin: 0 auto;
+	padding: 20px 0px;
+}
+
+.Imgs_li {
+	/* position: absolute; */
+	/* top:0; */
+	/* left: 0; */
+}
+
+.content_img {
+	width: 7.1875rem;
+	height: 3.8125rem;
+}
+
+.content_img_box{
+	width: 7.1875rem;
+	height: 3.8125rem;
+	background-color: #7F7F7F;
+	opacity: 0.7;
+	position: absolute;
+	top:0;
+	margin-top: 1.25rem;
+}
+
+.content_img_txt{
+	position: absolute;
+	top:0;
+	font-size:14px;
+	margin-top: 0.75rem;
+	margin-left: 1.25rem;
+	color: #FFFFFF;
+}
+
+.content_line{
+	position: absolute;
+	top:0;
+	width:70px;
+	height: 2px;
+	line-height: 2px;
+	/* background-color: orange; */
+	margin-top: 3.875rem;
+	margin-left: 1.25rem;
+	
+}
+
+/* .content_line:first-child{
+	background-color: orange;
+} */
+
+/* .content_line{
+	background-color: orange;
+} */
+
+
+
+/* .content_line:hover{
+	background-color: orange;
+} */
+
+.Infos {
+	padding-top:1.25rem;
+	padding-bottom: 3.125rem;
+}
+
+.info1_title {
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+	color: #F69533;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.OneInfo {
+	margin: 0 0.625rem;
+	/* text-indent: 2em; */
+	/*首段空2个字符*/
+	text-align: left !important;
+	padding-bottom: 1.25rem;
+}
+
+/* .OneInfo:nth-child(0){
+		
+	} */
+.info1 {
+	word-wrap: break-word;
+	font-kerning: normal;
+	font-size: 16px;
+	/* letter-spacing: 2px; */
+	color: #333333;
+	line-height: 25px;
+	text-align: left;
+}
+
+.info1_button{
+	margin: 0 auto;
+	text-align: center;
+	padding-top:1.25rem;
+}
+.el-button{
+	border-color: rgba(22, 155, 213, 1);
+	border-width:2px;
+	border-radius:15px;
+	width: 10.125rem;
+	color: #169BD5;
+	font-size: 18px;
+}
+
+.info2{}
+
+.info2_content1{
+	width:23.3125rem;
+	height: 18.4375rem;
+	border: 1px dashed #0077C0;
+	
+}
+
+.info2_src{
+	width:3.75rem;
+	height: 3.75rem;
+	margin-top:3.125rem;
+}
+
+.info2_title{
+	font-size: 24px;
+	color: #169BD5;
+	width: 10.5rem;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.info2_content{
+	width: 10rem;
+	font-size: 18px;
+	/* letter-spacing: 2px; */
+	line-height: 25px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.info3{}
+
+.info3_img{
+	width:21.9375rem;
+	height: 12.5625rem;
+}

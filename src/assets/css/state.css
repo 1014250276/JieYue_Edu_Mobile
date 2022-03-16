@@ -1,0 +1,115 @@
+/* body{
+		background-color: rgba(242, 242, 242, 1);
+	} */
+	#container_state {
+		top: 40px;
+		background-color: rgba(242, 242, 242, 1);
+	}
+
+	.banner1_state {
+		width: 23.4375rem;
+		height: 7.3125rem;
+	}
+
+	.OneInfo_state {
+		margin: 1.25rem 0.625rem;
+		text-indent: 2em;
+		/*首段空2个字符*/
+		text-align: left !important;
+	}
+
+	/* .OneInfo:nth-child(0){
+		
+	} */
+	.info1_state {
+		word-wrap: break-word;
+		font-kerning: normal;
+		font-size: 16px;
+		/* letter-spacing: 2px; */
+		color: #7F7F7F;
+		line-height: 25px;
+		text-align: left;
+	}
+
+	.TowInfo_state {
+		margin: 1.875rem auto;
+		/* position: relative; */
+		height: 170px;
+	}
+
+	.info2_img1_state {
+		position: absolute;
+		/* top: 0; */
+		left: 0;
+		margin: 0.625rem 0.9375rem;
+		width: 9.375rem;
+		height: 9.375rem;
+		z-index: 2;
+	}
+
+	.info2_img2_state {
+		position: absolute;
+		right: 0;
+		margin: 0 0.9375rem;
+		width: 15.375rem;
+		height: 10.625rem;
+		border-width: 0px;
+		background: inherit;
+		background-color: rgba(255, 255, 255, 1);
+		border: none;
+		border-radius: 0.3125rem;
+		box-shadow: none;
+	}
+
+	.info2_text1_state {
+		position: absolute;
+		right: 0;
+		z-index: 2;
+		margin-right: 7.5rem;
+		margin-top: 3.125rem;
+
+		font-weight: 700;
+		font-style: normal;
+		font-size: 24px;
+	}
+
+	.info2_text2_state {
+		position: absolute;
+		right: 0;
+		z-index: 2;
+		margin-right: 5.625rem;
+		margin-top: 6.25rem;
+
+		font-weight: 700;
+		font-style: normal;
+		font-size: 20px;
+		color: #666666;
+	}
+
+	.ThreeInfo_state {
+		/* position: relative; */
+		/* margin: 14.375rem auto; */
+		padding-bottom: 3.125rem;
+	}
+
+	.info3_img_state {
+		/* position: absolute; */
+		left: 0;
+		width: 20.875rem;
+		height: 20.875rem;
+		margin: 0 1.25rem;
+	}
+	.info3_text_state{
+		position: absolute;
+		left: 0;
+		text-align: left;
+		width:18.75rem;
+		margin: 1.75rem 2.5rem;
+		z-index: 2;
+		word-wrap: break-word;
+		text-transform: none;
+		font-size: 16px;
+		/* letter-spacing: 2px; */
+		color: #666666;
+		line-height: 23px;
+	}

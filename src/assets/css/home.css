@@ -1,0 +1,206 @@
+#container {
+	top: 40px;
+}
+
+.banner {}
+
+.banner_home {
+	width: 375px;
+	height: 191px;
+}
+
+.banner2 {
+	width: 375px;
+	height: 272.5px;
+}
+
+.SeeMore {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 26rem 0 0 2.5rem;
+}
+
+.SeeMore_txt {
+	font: 14px;
+	color: #0077C0;
+	text-rendering: optimizeLegibility
+}
+
+.SeeMore_line {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 4.0625rem;
+	height: 0.125rem;
+	border-width: 0;
+	margin-top: 1.5625rem;
+}
+
+.divider {
+	/* width: 80%;
+		margin: 0 auto; */
+}
+.el-divider--horizontal{
+	width: 300px;
+	margin: 24px auto;
+}
+
+.el-divider__text {
+	/* width: 65%; */
+	padding: 0 10px;
+}
+
+.xwzx_title_bg > .el-divider__text:nth-child(1){
+	background-color: rgba(247, 250, 255, 1);
+}
+
+.xwzx_content {
+	width: 100%;
+	margin: 0 auto;
+	background-color: rgba(247, 250, 255, 1);
+}
+.xwzx_content_div{
+	padding-top: 50px;
+}
+
+.ryzz_content_div{
+	padding-top: 20px;
+}
+
+.cptx_content_div{
+	padding-top: 20px;
+}
+
+.xqhz_content_div{
+	padding-top: 20px;
+}
+h3{
+	font-weight: 700;
+	font-style: normal;
+	font-size: 26px;
+}
+
+.divider{
+	background-color: rgba(247, 250, 255, 1);
+}
+.xwzx_title_bg{
+	/* background-color: rgba(247, 250, 255, 1); */
+}
+.xwzx_ul {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.xwzx_li {
+	margin: 10px auto;
+}
+
+.xwzx_img {
+	width: 168px;
+	height: 155px;
+	/* position: relative; */
+	/* display: flex; */
+	/* justify-content: center; */
+}
+
+.xwzx_text_title {
+	font-size: 14px;
+	color: #000000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-top: 105px;
+	margin-left: 12px;
+}
+
+.xwzx_text_content {
+	font-size: 14px;
+	color: #555555;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-top: 130px;
+	margin-left: 12px;
+}
+
+.xwzx_seemore{
+	padding: 20px 0px 10px;
+}
+.xwzx_seemore_btn{
+	font-size: 14px;
+	color: #FFFFFF;
+}
+
+/*荣誉资质*/
+.ryzz_content {}
+
+/*轮播左右箭头*/
+.carousel__arrow {
+/* 	display: block !important;
+	background: red; */
+}
+.el-carousel__arrow--left{
+	display: block !important;
+	background: lightgray;
+}
+
+.el-carousel__arrow--right{
+	display: block !important;
+	background: lightgray;
+}
+.medium {
+	color: #FFFFFF;
+	font-size: 13px;
+}
+
+.base_img {
+	width: 278px;
+	height: 44px;
+	/* margin-top: -100px; */
+	transform: translateY(-38px);
+}
+
+.el-carousel__indicator--horizontal {
+	display: none;
+	/*隐藏走马灯部分样式*/
+}
+
+.main_img {
+	width: 177px;
+	height: 129px;
+}
+
+.left_img {
+	width: 30px;
+	height: 30px;
+}
+
+.right_img {
+	width: 30px;
+	height: 30px;
+}
+
+
+.cptx_content {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.cptx_img {
+	width: 160px;
+	height: 160px;
+}
+
+.xqhz_content {
+	width: 80%;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
+.xqhz_img {
+	width: 107px;
+	height: 61px;
+}

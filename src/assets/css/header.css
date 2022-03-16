@@ -1,0 +1,71 @@
+#content{
+		position: fixed;
+		/* border: 1px solid #42B983; */
+		z-index: 999;
+		top:0;
+		right: 0;
+		width: 100%;
+		background-color: #FFFFFF;
+		z-index: 999;
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	#left{
+		width:80%;
+		height: 3.125rem;
+		line-height: 3.125rem;
+	}
+	.logo{
+		float: left;
+		width:158px;
+		height: 38px;
+		margin: 5px;
+	}
+	#right{
+		width:20%;
+		height: 3.125rem;
+		line-height: 3.125rem;
+	}
+	.menu{
+		float: right;
+		width:22px;
+		height: 22px;
+		margin: 15px 20px;
+	}
+	
+	/*弹出菜单遮罩*/
+	.Header_navlist_mark{
+		width: 100%;
+		position: fixed;
+		top: 50px;
+		border: 0;
+		height: 667px;
+		background-color: gray;
+		opacity: 1;
+	}
+	
+	.menu_content{
+		width:100%;
+		z-index: 22;
+	}
+	
+	.el-submenu__title{
+		height: 3.125rem;
+		line-height: 3.125rem;
+		text-align: left;
+		margin-left:1.25rem;
+	}
+	
+	 .el-menu-item{
+		height: 2.5rem;
+		line-height: 2.5rem;
+		text-align: left;
+		margin-left:1.25rem;
+	}
+	
+	.el-menu-item-group__title{
+		padding: 0 !important;
+	}
+
+	
